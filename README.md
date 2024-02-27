@@ -37,40 +37,6 @@ AHEAD
 2021-2022
 
 RESPONSIBILITIES
-Build, lead and manage teams of 6-8 senior consultants to develop multi-cloud adoption, migration, automation and operational strategies for large enterprises across major CSPs
-Set the direction and establish approach for planning, design, building, and integrating cloud services and provider systems to achieve global alignment with business strategies and IT processes involving cloud capabilities. 
-Use data-driven approaches to understanding user journeys, identify key metrics, collect data and perform in-depth analysis to discover what works and ways to improve client experience.
-Manage project risks and issues throughout the SDLC phases, report project/program statuses to the steering committees along with financial information.
-ACCOMPLISHMENTS
-Led the acceleration of migration of 1,200 workloads from on-premises data centers to Azure & GCP using IaC at the largest comprehensive research, teaching and patient care health systems.
-Led the creation of a cloud business case with TCO calculations to migrate to Azure, develop a cloud operating strategy and build Cloud Centers of Excellence for identity and observability in non-profit healthcare groups supporting 2,000 physicians and 18,000 employees.
-
-WORK EXPERIENCE
-
-
-
-Global Business Development Manager, Cyber Resilience
-World Wide Technology
-2023 - Present
-
-RESPONSIBILITIES
-Globally evangelize Cyber Resilience Consulting Services, part of WWTs 9 areas of Cyber Security within the $600B overall cyber security market inside a $20B business.
-Calculate market opportunity, identify and develop market differentiators for Cyber Resilience Consulting Services with the Data Protection and Cyber Recovery OEM markets..
-Conduct market segmentation within the Data Security and Security Consulting market sub-segments to calculate TAM (Total Addressable Market).
-Subsegment across Global Critical Sectors and Regulatory Requirements including EU DORA, US SEC, CISA, APRA PPGs, and more.
-Document key business challenges with Malware and APT, including Ransomware within the data protection, cyber recovery and consulting markets.
-Align with key Backup, Data Protection and Cyber Resilience OEM vendors to take joint marketing & enablement messages to the field.
-Develop visual aids for global market investment strategies and make recommendations for business focus.
-ACCOMPLISHMENTS
-Self-started global cyber resilience enablement program to internally promote the Cyber Resilience Consulting Practice
-Defined and published global market segmentation of the Cyber Resilience Consulting Total Addressable Market with regional growth strategies and recommendations.
-Aligned messaging with modern data protection vendors including Rubrik and Cohesity along with legacy backup providers including Veritas, Veeam, Commvault and Dell Data Protection.
-
-Principal Consultant, Multi-Cloud Strategy & Adoption
-AHEAD
-2021-2022
-
-RESPONSIBILITIES
 
 Build, lead and manage teams of 6-8 senior consultants to develop multi-cloud adoption, migration, automation and operational strategies for large enterprises across major CSPs
 Set the direction and establish approach for planning, design, building, and integrating cloud services and provider systems to achieve global alignment with business strategies and IT processes involving cloud capabilities. 
