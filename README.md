@@ -1,4 +1,4 @@
-Go [Here](https://github.com/vchokshi/crispy-computing-machine) for Code! \r\n
+Go [Here](https://github.com/vchokshi/crispy-computing-machine) for Code! \n
 
 PROFESSIONAL SUMMARY
 
