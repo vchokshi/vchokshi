@@ -13,7 +13,7 @@ OBJECTIVE
 - For sellers, I can show you the research and help you seize this market and influence other market dynamics.
 - For buyers I can help you understand where to make calculated investments based on at-risk assets and valuations.
 
-- WORK EXPERIENCE
+WORK EXPERIENCE
 
 Global Business Development Manager, Cyber Resilience
 World Wide Technology
