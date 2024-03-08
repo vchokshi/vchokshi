@@ -4,6 +4,6 @@ But they also have been misused to enable transnational repression and digital a
 
 People and technology are increasingly linked, further enabling the very best, as well as the worst, of humanity.
 
-Introduction to the National Cyber Security Strategy of the United States of America
+Introduction to the National Cyber Security Strategy of the United States of America.
 
 I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, one nation under God, indivisible, with liberty and justice for all.
