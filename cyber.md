@@ -12,4 +12,4 @@ harassment, exploitation, and abuse; enable criminals and foster violent extremi
 peace and stability. People and technology are increasingly linked, further enabling the very best, as
 well as the worst, of humanity.
 
-- Introduction to the National Cyber Security Strategy of the United States of America
+-- Introduction to the National Cyber Security Strategy of the United States of America
