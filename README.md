@@ -129,4 +129,3 @@ Using Elastio to Protect Our SaaS Applications - March 12, 2022
 Why Today’s Platforms Require Modern Data Protection Strategies - April 28, 2022
 Paying the Piper for Git Divergence - February 23, 2021
 Why I joined ExtraHop - March 17, 2014
-
