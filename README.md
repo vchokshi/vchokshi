@@ -2,18 +2,20 @@ Go [Here](https://github.com/vchokshi/crispy-computing-machine) for Code!
 
 PROFESSIONAL SUMMARY
 
-Introverted extrovert, computer scientist, academic expert enjoys nature of global business business economy.
-Excel at consulting through influence, aspire to solve complex business problems with innovative solutions.
-Expert in cybersecurity, software development life cycles, and relentless business process automation.
-Various engagements in public/private sector, enterprise, service provider, healthcare, FI and Utilities.
+I lead teams in designing, building, operating and selling modern secure computing systems.
+I am a career journeyman, I excel in matrix environments at all stages of the application lifecycle.
+I consult on complex technology problems at the intersection of business  through analytical thinking and influence.
+I am an expert in cybersecurity, software development life cycles, and relentless business process automation.
+I have been part of engagements in public/private sector, enterprise, service provider, healthcare, FI and Utilities.
 
 OBJECTIVE
 
-Continue as a cybersecurity expert, increased emphasis on cloud native DevOps and business process optimization.
-Ideal role would be global cybersecurity practice director responsible for revenue of mid-size consulting firms.
-As an expert, I believe the $600B cyber security market has the opportunity to swell to over $2T by the end of 2030
-For sellers, I can show you the research and help you seize this market and influence other market dynamics.
-For buyers I can help you understand where to make calculated investments based on at-risk assets and valuations.
+The $600B cyber security market will swell to $2T by 2030 based on challenges associated with unrestricted warfare.
+My ideal role continues to be at the global intersection of business and technology.
+My ideal role is in management, where I can be a player/coach defending modern critical systems and applications.
+As a cybersecurity expert, I want to increase emphasis on cloud native DevOps and business process optimization.
+For sellers, I can demonstrate the research and help seize this market and influence other market dynamics.
+For buyers, I can help explain where to make calculated investments based on at-risk assets and valuations.
 
 WORK EXPERIENCE
 
@@ -50,7 +52,7 @@ Led the creation of a cloud business case with TCO calculations to migrate to Az
 
 Managing Principal, DevOps, CI/CD and Cybersecurity
 Independent Consultant
-2017 - 2021
+                            2017 - 2021
 
 RESPONSIBILITIES
 Define the scope and services of the DevOps consulting practice, with a service delivery model including assessments, strategy development, implementation, and managed services aligned with industry best practices.. 
@@ -65,7 +67,6 @@ Led the delivery of cybersecurity risk management assessments for a large digita
 Co-led the user journey definition for the United State Department of Defense (DoD) Military Information Resources System (MIRS) in partnership with military entrance processing command and the Digital Defense Service (DDS).
 Led a team of 3 overseas engineers to implement and operate a large IOT platform for DOCSIS cable modem telemetry gathering, analysis and reporting using Ansible and Cassandra.
 Manage Smart Grid Meter analytics project focused on Fault Probability Prediction of Transformers Using Cellulose Degradation and Furfural Calculations using Hadoop and HDFS, SCADA and IT/OT Technologies.
-
 
 National Channel Sales Director
 Contrast Security
@@ -85,6 +86,7 @@ Infoblox
 RESPONSIBILITIES & ACCOMPLISHMENTS
 Develop regional sales plan and  management promotion and sales of IT Automation & Security including DHCP, DNS, and IPAM. 
 Annual quota attainment of 246%. 
+
 
 National Channels System Engineer
 ExtraHop
@@ -118,5 +120,13 @@ Bachelors Science Computer Science, San Jose State University, CA
 Mathematics and Computer Science
 
 
+PUBLICATIONS
 
+DevOps Observability with Open Telemetry - Jan 16, 2023
+What is Cisco Panoptica - Dec 27, 2022
+Reviewing Cisco Panoptica - Dec 26, 2022
+Using Elastio to Protect Our SaaS Applications - March 12, 2022
+Why Today’s Platforms Require Modern Data Protection Strategies - April 28, 2022
+Paying the Piper for Git Divergence - February 23, 2021
+Why I joined ExtraHop - March 17, 2014
 
