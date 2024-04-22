@@ -114,16 +114,18 @@ fi
 
 export PATH=$PATH:/home/vchokshi/bin
 
-source '/home/vchokshi/lib/azure-cli/az.completion'
-
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/home/vchokshi/google-cloud-sdk/path.bash.inc' ]; then . '/home/vchokshi/google-cloud-sdk/path.bash.inc'; fi
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/vchokshi/google-cloud-sdk/completion.bash.inc' ]; then . '/home/vchokshi/google-cloud-sdk/completion.bash.inc'; fi
-if [ -f '/home/vchokshi/ccm/helpers.sh' ]; then . '/home/vchokshi/ccm/helpers.sh'; fi
-if [ -f '/home/vchokshi/ccm/my_conf_files/bash_aliases.sh' ]; then . '/home/vchokshi/ccm/my_conf_files/bash_aliases.sh'; fi
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+export PATH="$HOME/.tfenv/bin:$PATH"
+
+# The next line enables all the helpers in the CCM
+if [ -f '/home/vchokshi/ccm/helpers.sh' ]; then . '/home/vchokshi/ccm/helpers.sh'; fi
+if [ -f '/home/vchokshi/ccm/my_conf_files/bash_aliases.sh' ]; then . '/home/vchokshi/ccm/my_conf_files/bash_aliases.sh'; fi
