@@ -1,0 +1,13 @@
+[core]
+  editor = vim
+
+[user]
+  email = vchokshi23@gmail.com
+  name = Vihar Chokshi
+
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[push]
+	default = current
