@@ -1,6 +1,4 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
-# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-# for examples
 
 # If not running interactively, don't do anything
 case $- in
@@ -126,9 +124,6 @@ export NVM_DIR="$HOME/.nvm"
 
 export PATH="$HOME/.tfenv/bin:$PATH"
 
-# The next line enables all the helpers in the CCM
-if [ -f '/home/vchokshi/ccm/helpers.sh' ]; then . '/home/vchokshi/ccm/helpers.sh'; fi
-if [ -f '/home/vchokshi/ccm/my_conf_files/bash_aliases.sh' ]; then . '/home/vchokshi/ccm/my_conf_files/bash_aliases.sh'; fi
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
     alias ls='ls --color=auto'
